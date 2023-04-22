@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MarieApparailly.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/MarieApparailly.github.io/static/js/main.3a6c1be6.js",
+    "static/js/787.5c1a7b8d.chunk.js": "/MarieApparailly.github.io/static/js/787.5c1a7b8d.chunk.js",
+    "static/media/logo.svg": "/MarieApparailly.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MarieApparailly.github.io/index.html",
+    "main.073c9b0a.css.map": "/MarieApparailly.github.io/static/css/main.073c9b0a.css.map",
+    "main.3a6c1be6.js.map": "/MarieApparailly.github.io/static/js/main.3a6c1be6.js.map",
+    "787.5c1a7b8d.chunk.js.map": "/MarieApparailly.github.io/static/js/787.5c1a7b8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3a6c1be6.js"
+  ]
+}
